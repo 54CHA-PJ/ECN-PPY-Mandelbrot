@@ -1,0 +1,12 @@
+# build
+build/
+tpf_mandelbrot_julia.egg-info/
+
+# test
+.pytest_cache/
+
+# inside tpf
+tpf/**/__pycache__/
+
+# misc
+sujet.pdf
